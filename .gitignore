@@ -1,0 +1,4 @@
+/out
+/.lsp
+/.clj-kondo
+/src/__pycache__
