@@ -78,7 +78,7 @@ def save_log(filename, message):
 # Class ServiceEye
 class ServiceEye:
     def __init__(self):
-        out_dir = './out/'
+        out_dir = './Logs/'
         os.makedirs(out_dir, exist_ok=True)
         
         self.filepath = os.path.join(out_dir, 'urls.json')

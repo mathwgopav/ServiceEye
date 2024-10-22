@@ -1,0 +1,2 @@
+[2024-10-22 13:31:22]: A URL https://youtube.com está acessível. Status Code: 200
+[2024-10-22 13:31:34]: A URL https://youtube.com está acessível. Status Code: 200

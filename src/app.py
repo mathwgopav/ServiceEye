@@ -1,4 +1,4 @@
-import os, sys
+# import os, sys
 from tkinter import *
 from tkinter import messagebox  # Importação do messagebox para exibir mensagens
 import asyncio
@@ -54,8 +54,8 @@ def open_logs_in_notepad():
 # Inicializa a janela Tkinter
 root = Tk()
 root.title("ServiceEye")
-icon = os.path.join(sys.path[0], "./assets/favicon.ico")
-root.iconbitmap(icon)
+# icon = os.path.join(sys.path[0], "./assets/favicon.ico")
+# root.iconbitmap(icon)
 
 # Definir o tamanho da janela
 root.geometry("400x350")
